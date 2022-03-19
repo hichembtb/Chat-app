@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48922073172",
+    "project_id": "flash-chat-d8b74",
+    "storage_bucket": "flash-chat-d8b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48922073172:android:98b13d1fd4839e063b35c1",
+        "android_client_info": {
+          "package_name": "com.hichembtb.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48922073172-1hlmt62r99810plvd1tkro3qef5dg68u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj60JBnjP9-nwerjpVwkop-59wZC-r-dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48922073172-1hlmt62r99810plvd1tkro3qef5dg68u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
